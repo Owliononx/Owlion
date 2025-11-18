@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-PRONIX-blue?logo=google-chrome)](https://pronix.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-PRONIX-blue?logo=twitter)](https://x.com/PRONIXFUN)
 
+CA: G7FPdo7U6E33HPhTGegdaiCmAqjkSTfcoNuHEBSXpump
+
 PRONIX is a real-time micro hedge engine built directly on top of Pumpfun’s on-chain event stream.
 
 Instead of relying on predictions or market assumptions, PRONIX operates entirely through measurable data: every buy, every sell, every liquidity shift, and every behavioral pattern emitted by active wallets. These raw signals are continuously captured and transformed into a dynamic Hedge Ratio — a real-time coefficient that describes the pressure, imbalance, and volatility of the market at any given moment.
